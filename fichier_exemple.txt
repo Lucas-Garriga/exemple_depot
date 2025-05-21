@@ -1,1 +1,2 @@
 ce fichier est crée afin de comprendre comemnt utilisé git hub !
+je vien de faire une modif sur ce fichier , je vais ensuite faire un commit pour enregistrer cette modif exemple !
